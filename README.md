@@ -1,3 +1,13 @@
+# NextDeveloper-Core
+
+NextDeveloper-Core is the NextLife platform developer portal module.
+
+> Upstream: [backstage/backstage](https://github.com/backstage/backstage)
+>
+> License notice: This fork retains the upstream project license, copyright notices, and attribution. Review the upstream license before use or distribution.
+
+---
+
 [![headline](docs/assets/headline.png)](https://backstage.io/)
 
 # [Backstage](https://backstage.io)
